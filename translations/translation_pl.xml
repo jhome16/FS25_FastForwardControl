@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="ffc_title" text="STEROWANIE PRZYSPIESZENIEM CZASU"/>
+        <text name="ffc_today" text="DZIŚ"/>
+        <text name="ffc_speed_header" text="PRĘDKOŚĆ PRZYSPIESZENIA"/>
+        <text name="ffc_until_header" text="PRZYSPIESZ DO"/>
+        <text name="ffc_time" text="Godzina %s"/>
+        <text name="ffc_gameSpeed" text="Prędkość gry %s"/>
+        <text name="ffc_fastForwarding" text="(przyspieszanie trwa)"/>
+        <text name="ffc_speed_extended" text="(rozszerzona - poza menu gry)"/>
+        <text name="ffc_speed_max" text="(maks. gry)"/>
+        <text name="ffc_target_today" text="(dziś)"/>
+        <text name="ffc_target_tomorrow" text="(jutro)"/>
+        <text name="ffc_preset_tomorrow" text="Jutro 06:00"/>
+        <text name="ffc_preset_1h" text="Teraz + 1 godz."/>
+        <text name="ffc_preset_6h" text="Teraz + 6 godz."/>
+        <text name="ffc_checkbox" text="Zatrzymaj przyspieszenie przy alercie Rynków i Kontraktów terminowych"/>
+        <text name="ffc_btn_start" text="START"/>
+        <text name="ffc_btn_running" text="TRWA..."/>
+        <text name="ffc_btn_stop" text="STOP"/>
+        <text name="ffc_status_remaining" text="Do celu: %s czasu gry  -  ok. %s czasu rzeczywistego przy %s"/>
+        <text name="ffc_status_passed" text="Ten moment już minął - wybierz późniejszy."/>
+        <text name="ffc_date_day" text="Dzień %d"/>
+        <text name="ffc_date_dayOfPeriod" text="dzień %d z %d"/>
+        <text name="ffc_date_year" text="Rok %d"/>
+        <text name="ffc_period_fallback" text="Okres %d"/>
+        <text name="ffc_unit_day" text="d"/>
+        <text name="ffc_unit_hour" text="godz."/>
+        <text name="ffc_unit_minute" text="min"/>
+        <text name="ffc_unit_second" text="s"/>
+        <text name="ffc_banner" text="&gt;&gt; %s do dnia %d, %s  (zostało %s)"/>
+        <text name="ffc_msg_unavailable" text="Czas gry nie jest jeszcze dostępny."/>
+        <text name="ffc_msg_pickFuture" text="Wybierz dzień i godzinę w przyszłości."/>
+        <text name="ffc_msg_started" text="Przyspieszanie do dnia %d, %s z prędkością %s"/>
+        <text name="ffc_msg_speedBack" text="%s - prędkość przywrócona do %s"/>
+        <text name="ffc_msg_stopped" text="Przyspieszanie zatrzymane"/>
+        <text name="ffc_msg_stoppedByUser" text="Zatrzymano"/>
+        <text name="ffc_msg_arrived" text="Dotarto do dnia %d, %s"/>
+        <text name="ffc_msg_alert" text="Alert"/>
+        <text name="ffc_msg_alertText" text="Alert: %s"/>
+        <text name="ffc_msg_alertFrom" text="Alert z %s"/>
+        <text name="input_FFC_TOGGLE_HUD" text="Sterowanie przyspieszeniem czasu (otwórz / zamknij)"/>
+    </texts>
+</l10n>
