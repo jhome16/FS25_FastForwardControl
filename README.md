@@ -9,5 +9,6 @@ Press LEFT ALT + T to open the panel (all keys can be changed in Settings > Cont
 - Pick the target day and time, or use the quick presets
 - Optionally let "Markets and Futures" price alerts stop the fast-forward and restore your previous speed
 
-The previous game speed is restored automatically when the target time is reached. The panel texts are available in 11 languages.
-Detailed mod information can be found at (https://github.com/jhome16/FS25_FastForwardControl)
+The previous game speed is restored automatically when the target time is reached. 
+
+Detailed mod information can be found at https://github.com/jhome16/FS25_FastForwardControl.
