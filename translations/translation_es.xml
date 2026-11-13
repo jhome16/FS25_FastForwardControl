@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<l10n>
+    <texts>
+        <text name="ffc_title" text="CONTROL DE AVANCE RÁPIDO"/>
+        <text name="ffc_today" text="HOY"/>
+        <text name="ffc_speed_header" text="VELOCIDAD DE AVANCE RÁPIDO"/>
+        <text name="ffc_until_header" text="AVANZAR HASTA"/>
+        <text name="ffc_time" text="Hora %s"/>
+        <text name="ffc_gameSpeed" text="Velocidad del juego %s"/>
+        <text name="ffc_fastForwarding" text="(avance rápido en curso)"/>
+        <text name="ffc_speed_extended" text="(ampliada - más allá del menú del juego)"/>
+        <text name="ffc_speed_max" text="(máx. del juego)"/>
+        <text name="ffc_target_today" text="(hoy)"/>
+        <text name="ffc_target_tomorrow" text="(mañana)"/>
+        <text name="ffc_preset_tomorrow" text="Mañana 06:00"/>
+        <text name="ffc_preset_1h" text="Ahora + 1 h"/>
+        <text name="ffc_preset_6h" text="Ahora + 6 h"/>
+        <text name="ffc_checkbox" text="Detener el avance rápido con alertas de Mercados y Futuros"/>
+        <text name="ffc_btn_start" text="INICIAR"/>
+        <text name="ffc_btn_running" text="EN CURSO..."/>
+        <text name="ffc_btn_stop" text="DETENER"/>
+        <text name="ffc_status_remaining" text="Faltan %s de tiempo de juego  -  unos %s en tiempo real a %s"/>
+        <text name="ffc_status_passed" text="Esa hora ya pasó - elige una posterior."/>
+        <text name="ffc_date_day" text="Día %d"/>
+        <text name="ffc_date_dayOfPeriod" text="día %d de %d"/>
+        <text name="ffc_date_year" text="Año %d"/>
+        <text name="ffc_period_fallback" text="Periodo %d"/>
+        <text name="ffc_unit_day" text="d"/>
+        <text name="ffc_unit_hour" text="h"/>
+        <text name="ffc_unit_minute" text="min"/>
+        <text name="ffc_unit_second" text="s"/>
+        <text name="ffc_banner" text="&gt;&gt; %s hasta el día %d, %s  (faltan %s)"/>
+        <text name="ffc_msg_unavailable" text="La hora del juego aún no está disponible."/>
+        <text name="ffc_msg_pickFuture" text="Elige un día y una hora en el futuro."/>
+        <text name="ffc_msg_started" text="Avance rápido hasta el día %d, %s a %s"/>
+        <text name="ffc_msg_speedBack" text="%s - velocidad de vuelta a %s"/>
+        <text name="ffc_msg_stopped" text="Avance rápido detenido"/>
+        <text name="ffc_msg_stoppedByUser" text="Detenido"/>
+        <text name="ffc_msg_arrived" text="Llegada al día %d, %s"/>
+        <text name="ffc_msg_alert" text="Alerta"/>
+        <text name="ffc_msg_alertText" text="Alerta: %s"/>
+        <text name="ffc_msg_alertFrom" text="Alerta de %s"/>
+        <text name="input_FFC_TOGGLE_HUD" text="Control de avance rápido (abrir / cerrar)"/>
+    </texts>
+</l10n>
